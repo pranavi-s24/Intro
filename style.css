@@ -1,0 +1,39 @@
+.text-bluee {
+    color: rgb(79, 79, 148);
+}
+.fs-07 {
+    font-size: 7px;
+}
+.bg-img1 {
+    background-image: url("img1.jpg");
+}
+.layer {
+    background-color: rgba(79, 79, 148,0.8);
+}
+.bg-img1 p{
+    font-size: 12px;
+}
+.text-green {
+    color: rgb(38, 148, 120);
+}
+.sm-pics {
+    height: 200px;
+    width: 100%;
+}
+.ww-60 {
+    width: 60%;
+    margin: auto;
+}
+.footer1 {
+    background-color: #233249;
+}
+.footer2 {
+    background-color: #1D2A3D;
+    height: auto;
+}
+.foo-img {
+    width: 100%;
+}
+.foo-img div , .hh{
+    height: fit-content;
+}
