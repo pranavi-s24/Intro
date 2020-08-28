@@ -37,3 +37,8 @@
 .foo-img div , .hh{
     height: fit-content;
 }
+@media screen and (max-width:500px) {
+    .sm-pics {
+        width: 90%;
+    }
+}
